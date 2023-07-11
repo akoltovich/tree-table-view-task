@@ -1,6 +1,5 @@
 package by.akoltovich.task;
 
-//import by.akoltovich.task.controller.MainController;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Group;
