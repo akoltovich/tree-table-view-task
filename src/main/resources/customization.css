@@ -1,0 +1,13 @@
+
+.tree-table-row-cell:selected{
+    -fx-background-color: #f1734f;
+    -fx-background-insets: 0;
+    -fx-background-radius: 1;
+    -fx-table-cell-border-color: white;
+}
+
+.tree-table-row-cell:selected .tree-table-cell,
+.tree-table-cell:selected {
+    -fx-text-fill: white;
+}
+
